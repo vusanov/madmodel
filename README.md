@@ -1,7 +1,6 @@
 
 # **Please read my Introduction part to understand my whole goal🤭)**
 
----
 ***Introduction***
 
 House price prediction is a very common problem and can be easily done by anyone, my main purpose is not to solve this problem again, but to use different methods and techniques to experiment on the same problem and better understand how those techniques are applied in depth to many big problems in the field of deep learning.
